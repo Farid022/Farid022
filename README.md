@@ -26,35 +26,6 @@
 - ❇️ WidgetKit<br>
 - 📲 Flutter
 
-
-
-
-
-# Hi 👋, I't Jemmy 👨‍💻
-
-**iOS Developer fueled by coffee 🇵🇰**
-
-**<h3 align="leading">💼 My Portfolio</h3>**
-
-<h3 align="leading">About</h3>
-• 🧑🏼‍🎓 I have a bachelor degree in Software Engineering with 3.78 cGPA.<br>
-• 👨‍💻 I started teaching myself iOS Development in 2020 - SwiftUI and Flutter expert.<br>
-• ☕️ I'm working in essenceWare Technologies pvt ltd, Pakistan as ful time employee.<br>
-• ✍️ I'm a big SwiftUI fan and love learning new frameworks.<br>
-• 🫶 BIG Google & Stack Overflow fan.<br>
-• 👀 I'm currently on the search for my remote iOS job.
-
-
-<h3 align="leading">Skills</h3>
-🎨 SwiftUI<br>
-💽 Core Data, SwiftData $ File Manager.<br>
-👨‍💻 App uploading - AppStore & PlayStore.<br>
-💵 in-App Purchase & Subscriptions.<br>
-🔥 Firebase.<br>
-📍 MapKit<br>
-❇️ WidgetKit<br>
-📲 Flutter
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/faridg022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/faridg022" height="30" width="40" /></a>
