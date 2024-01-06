@@ -1,15 +1,12 @@
-# Hi 👋, I't Jemmy
+# Hi 👋, I't Jemmy 👨‍💻
 
-**'iOS Developer fueled by coffee'**
-
-<h1 align="leading">Hi 👋, I't Jemmy</h1>
-<h3 align="leading">iOS developer from Pakistan 🇵🇰</h3>
+**'iOS Developer fueled by coffee 🇵🇰'**
 
 <h3 align="leading">💼 My Portfolio</h3>
 
 <h3 align="leading">About</h3>
 • 🧑🏼‍🎓 I have a bachelor degree in Software Engineering with 3.78 cGPA.<br>
-• 💻 I started teaching myself iOS Development in 2020 - SwiftUI and Flutter expert.<br>
+• 👨‍💻 I started teaching myself iOS Development in 2020 - SwiftUI and Flutter expert.<br>
 • ☕️ I'm working in essenceWare Technologies pvt ltd, Pakistan as ful time employee.<br>
 • ✍️ I'm a big SwiftUI fan and love learning new frameworks.<br>
 • 🫶 BIG Google & Stack Overflow fan.<br>
