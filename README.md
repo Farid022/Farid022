@@ -2,7 +2,7 @@
 
 **`iOS Developer fueled by protein 🥤`**
 
-### 💼 **[My GitHub Portfolio](https://github.com/Farid022/Portfolio/edit/main/README.md)**
+### 💼 **[My GitHub Portfolio](https://github.com/Farid022/Portfolio)**
 
 ---
 
