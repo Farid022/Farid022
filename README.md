@@ -1,8 +1,8 @@
 # Hi 👋, I't Jemmy 👨‍💻
 
-**'iOS Developer fueled by coffee 🇵🇰'**
+**iOS Developer fueled by coffee 🇵🇰**
 
-<h3 align="leading">💼 My Portfolio</h3>
+**<h3 align="leading">💼 My Portfolio</h3>**
 
 <h3 align="leading">About</h3>
 • 🧑🏼‍🎓 I have a bachelor degree in Software Engineering with 3.78 cGPA.<br>
