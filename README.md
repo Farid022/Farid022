@@ -4,7 +4,7 @@
 <p align="centre">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=iOS Developer%20fueled%20with%20protein%20and%20tea ☕️;Experienced%20UI%2FiOS%20Developer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&left=true&width=520&height=45&color=f75c7e&vCenter=true&pause=1000&size=17" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=iOS Developer%20fueled%20with%20protein%20and%20tea ☕️;Experienced%20iOS%20Developer;4+%2B%20years%20of%20coding%20experience;Always%20learning%20and%20sharing%20new%20things&font=Fira%20Code&left=true&width=520&height=45&color=f75c7e&vCenter=true&pause=1000&size=17" /></a>
 </p>
 
 ### 💼 **[My GitHub Portfolio](https://github.com/Farid022/Portfolio)**
