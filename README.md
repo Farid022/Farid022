@@ -1,7 +1,6 @@
 # Hi 👋, I't Jemmy 👨‍💻
 
 <p align="centre">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=iOS Developer%20fueled%20with%20protein 🥤%20and%20tea ☕️;4%2B%20years%20of%20coding%20experience;Always%20learning%20and%20sharing%20new%20things&font=Fira%20Code&left=true&width=520&height=45&color=00ff00&vCenter=true&pause=1000&size=17" /></a>
 </p>
@@ -17,18 +16,11 @@
   <a href="https://github.com/Farid022/Portfolio" alt="GitHub" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13705688/farid-gem" target="blank"><img width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13705688/farid-gem" height="30"/></a>
-  
-  
-  
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
 <br/>
 
 <!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <p align="center">
   <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
     <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php"/></a>
