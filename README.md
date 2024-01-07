@@ -16,10 +16,11 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Farid022/Portfolio" alt="GitHub" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[https://dev.to/denvercoder1](https://stackoverflow.com/users/13705688/farid-gem)"><img width="32px" alt="Dev.to" title="StackOverFlow" src="[hhhhhhhh](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  
   <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13705688/farid-gem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13705688/farid-gem" height="30" width="40" /></a>
+  
+  
+  
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
