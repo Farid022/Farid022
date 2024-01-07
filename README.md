@@ -27,7 +27,7 @@
   <a href="https://www.youtube.com/@jemmytech5474?sub_confirmation=1">
     <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php"/></a> 
     <a href="https://www.fiverr.com/jemmy022?up_rollout=true">
-    <img alt="total orders" title="Total orders on Fiverr" src="https://custom-icon-badges.demolab.com/fiverr/orders/jemmy022?color=1dbf73&style=for-the-badge&labelColor=11a05c&logo=fiverr"/>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DenverCoder1?color=55960c&style=for-the-badge&labelColor=488207&logo=dollar"/></a>
 </a>
 
   
