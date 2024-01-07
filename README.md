@@ -9,17 +9,13 @@
 <p align="center">
   <a href="https://www.youtube.com/channel/UCq-TPtQ-gQP4GFM28ncXdZA"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
   <a href="https://www.linkedin.com/in/jemmy--690b95227/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
   <a href="https://twitter.com/FaridG022"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
   <a href="https://www.fiverr.com/jemmy022?up_rollout=true" alt="Fiverr" title="I'm on Fiverr"><img width="32px" src="https://user-images.githubusercontent.com/45782139/77510964-c99c5300-6e91-11ea-9a6d-f1f33b56c846.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  
-  <a href="https://stackoverflow.com/users/13705688/farid-gem" target="blank"><img width="32px" src="https://user-images.githubusercontent.com/45782139/77510964-c99c5300-6e91-11ea-9a6d-f1f33b56c846.png" alt="https://stackoverflow.com/users/13705688/farid-gem" height="30"/></a>
+  <a href="https://stackoverflow.com/users/13705688/farid-gem" target="blank"><img width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13705688/farid-gem" height="30"/></a>
 </p>
 
 <br/>
