@@ -13,11 +13,13 @@
 - • ✍️ I'm a big SwiftUI fan and love learning new frameworks.<br>
 - • 🫶 BIG Google & Stack Overflow fan.<br>
 - • 👀 I'm currently on the search for my remote iOS job.
-
+, SwiftData, MVVM
+CoreData,  iOS App uploading
 
 
  ### Skills
-- 🎨 SwiftUI<br>
+- 🎨 SwiftUI and Swift
+- 🌐 Rest APIs/JSON<br>
 - 💽 Core Data, SwiftData $ File Manager.<br>
 - 👨‍💻 App uploading - AppStore & PlayStore.<br>
 - 💵 in-App Purchase & Subscriptions.<br>
