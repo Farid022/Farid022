@@ -9,7 +9,7 @@
 ### About
 - • 🧑🏼‍🎓 I have a bachelor degree in Software Engineering with 3.78 cGPA.<br>
 - • 👨‍💻 I started teaching myself iOS Development in 2020 - SwiftUI and Flutter expert.<br>
-- • ☕️ I'm working in essenceWare Technologies pvt ltd, Pakistan as ful time employee.<br>
+- • ☕️ Currently I'm developing iOS in essenceWare Technologies pvt ltd, Pakistan as ful time employee.<br>
 - • ✍️ I'm a big SwiftUI fan and love learning new frameworks.<br>
 - • 🫶 BIG Google & Stack Overflow fan.<br>
 - • 👀 I'm currently on the search for my remote iOS job.
