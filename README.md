@@ -1,6 +1,5 @@
 # Hi 👋, I't Jemmy 👨‍💻
 
-**`iOS Developer fueled by protein 🥤`**
 <p align="centre">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
