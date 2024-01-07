@@ -16,7 +16,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Farid022/Portfolio" alt="GitHub" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="[https://dev.to/denvercoder1](https://stackoverflow.com/users/13705688/farid-gem)"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://imgur.com/a/RXdj8jL"></a>
+  <a href="[https://dev.to/denvercoder1](https://stackoverflow.com/users/13705688/farid-gem)"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://imgur.com/a/YhbOAVl"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
 <!--   &#8287;&#8287;&#8287;&#8287;&#8287;
