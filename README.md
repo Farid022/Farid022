@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://github.com/Farid022/Portfolio" alt="GitHub" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://stackoverflow.com/users/13705688/farid-gem" target="blank"><img width="32px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13705688/farid-gem" height="30"/></a>
+  <a href="https://stackoverflow.com/users/13705688/farid-gem" target="blank"><img width="32px" src="https://user-images.githubusercontent.com/45782139/77510964-c99c5300-6e91-11ea-9a6d-f1f33b56c846.png" alt="https://stackoverflow.com/users/13705688/farid-gem" height="30"/></a>
 </p>
 
 <br/>
