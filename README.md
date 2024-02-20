@@ -37,7 +37,7 @@
     <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
 </p>
 
-### 💼 **[My GitHub Portfolio](https://github.com/Farid022/Portfolio) and [My Resume](https://github.com/Farid022/Portfolio/files/13937345/Role_iOSDev_2_%2B_yrsExperience.pdf)**
+### 💼 **[My Portfolio](https://github.com/Farid022/Portfolio) and [My Resume](https://github.com/Farid022/Portfolio/files/13937345/Role_iOSDev_2_%2B_yrsExperience.pdf)**
 
 ---
 
