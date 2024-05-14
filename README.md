@@ -1,5 +1,7 @@
 # Hi 👋, I't Jemmy 👨‍💻
 
+
+
 <p align="centre">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=iOS Developer%20fueled%20with%20protein 🥤%20and%20tea ☕️;4%2B%20years%20of%20coding%20experience;Always%20learning%20and%20sharing%20new%20things&font=Fira%20Code&left=true&width=520&height=45&color=00ff00&vCenter=true&pause=1000&size=17" /></a>
@@ -42,6 +44,23 @@
 ---
 
 ### About
+I am an iOS developer having 4+ years of experience in the field of developing and uploading native iOS apps. I have upload 20+ apps to appStore with in-app purchase attached. I have handled all kind of AppStore rejctions. Moreover I have a bachelor degree in the field of software engineering. My major subject in college was computer science. So I have been coding since 2017. I am sure that your work/task/project will be handover to you within the given/specified time or may be earlier.  
+
+Expertise: 
+➤ SwiftUI  
+➤ Google's Firebase (Realtime Database, Cloud Firestore, Storage, ML Kit,  
+➤ Authentication, AdMob, In-App Messaging  
+➤ Google Cloud APIs (Maps, Places, Directions, etc) 
+➤ In-App Purchases  ✦ RevenueCat and StoreKit2 
+➤ OpenAI API  
+➤ CoreData, SwiftData and File Manager 
+➤ CoreML 
+➤ Complex APIs
+➤ AVFoundation  
+➤ Core Animation 
+➤ Handling any kinda AppStore rejection
+
+
 - • 🧑🏼‍🎓 I have a bachelor degree in Software Engineering with 3.78 cGPA.<br>
 - • 👨‍💻 I started teaching myself iOS Development in 2020 - SwiftUI and Flutter expert.<br>
 - • ☕️ Currently I'm developing iOS in essenceWare Technologies pvt ltd, Pakistan as ful time employee.<br>
